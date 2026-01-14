@@ -23,16 +23,16 @@ This project answers:
 
 ---
 
-## Project Structure
-Loan Portfolio Risk & Default Trend Analysis/
+Loan_Portfolio_Risk_Default_Trend_Analysis/
 │
 ├── main.ipynb
 │
 ├── dataset/
-│   └── loan.csv
+│   └── loan.csv                # Raw dataset (not tracked on GitHub)
 │
 ├── output/
-│   ├── final_loan_dataset.csv
+│   ├── loan_clean.csv          # Cleaned dataset (not tracked)
+│   ├── final_loan_dataset.csv  # Final dataset (not tracked)
 │   ├── default_by_grade.png
 │   ├── default_by_term.png
 │   ├── monthly_default_trend.png
@@ -42,6 +42,9 @@ Loan Portfolio Risk & Default Trend Analysis/
 │   └── schema_and_load.sql
 │
 └── README.md
+
+Note: CSV datasets are excluded from GitHub due to file size limits.
+They can be recreated by running main.ipynb or downloaded from Kaggle.
 
 
 ---
