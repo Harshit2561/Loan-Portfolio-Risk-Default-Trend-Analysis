@@ -84,7 +84,7 @@ All outputs are stored in the `output/` folder:
 ## HOW TO RUN
 1. Clone the repository
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Harshit2561/Loan-Portfolio-Risk-Default-Trend-Analysis.git
    cd Loan_Portfolio_Risk_Default_Trend_Analysis
    ```
 
