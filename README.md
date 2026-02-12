@@ -59,7 +59,7 @@ Bank_Loan_Default_Prediction/
 |   |-- loan.csv                (raw dataset - not tracked)
 |
 |-- output/
-|   |-- cleaned_dataset.csv
+|   |-- cleaned_dataset.csv      (cleaned dataset - not tracked)
 |   |-- default_by_grade.png
 |   |-- default_by_term.png
 |   |-- monthly_default.png
